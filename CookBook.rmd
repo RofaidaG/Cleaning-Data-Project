@@ -1,9 +1,8 @@
 ## This cookBook describes all the variables exist in the tidydata.txt file
-1. Identifiers:
+** 1. Identifiers:
 
 * The subject: the ID of person who perform the excerices.
 * The Activity: the activity type that was performed while the measurement was taken. with the following values:
-
   + WALKING (value 1): subject was walking during the test
   + WALKING_UPSTAIRS (value 2): subject was walking up a staircase during the test
   + WALKING_DOWNSTAIRS (value 3): subject was walking down a staircase during the test
@@ -12,7 +11,7 @@
   + LAYING (value 6): subject was laying down during the test
 
 
-2. Variables:
+**2. Variables:
 
  [1] "tBodyAcc-mean()-X"          
  [2] "tBodyAcc-mean()-Y"          
