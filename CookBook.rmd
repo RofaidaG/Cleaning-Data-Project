@@ -1,4 +1,4 @@
-##This cookBook describes all the variables exist in the tidydata.txt file
+## This cookBook describes all the variables exist in the tidydata.txt file
 1. Identifiers:
 * The subject: the ID of person who perform the excerices.
 * The Activity: the activity type that was performed while the measurement was taken. with the following values:
